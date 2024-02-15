@@ -1,6 +1,6 @@
 [package]
 name = "minigrep_sopesto"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "minigrip es una aplicación hecha siguiendo la guía del libro *The Rust Programming Lenguage*.  La misma busca recrear de forma minimalista la aplicación grep."
 license = "MIT OR Apache-2.0"
